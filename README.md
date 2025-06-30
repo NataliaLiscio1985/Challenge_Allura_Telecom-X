@@ -80,7 +80,7 @@ Esto permitió detectar relaciones entre el abandono y:
 
 **Natalia Noemí Liscio**  
 Challenge de Análisis de Datos - Allura Latam  
-Contacto: [LinkedIn]((https://www.linkedin.com/in/natalialiscio/)) | [GitHub](https://github.com/NataliaLiscio1985) 
+Contacto: [LinkedIn](https://www.linkedin.com/in/natalialiscio/) | [GitHub](https://github.com/NataliaLiscio1985) 
 
 ---
 
